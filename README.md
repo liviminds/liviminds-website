@@ -1,4 +1,4 @@
-# Kissmet – zweisprachige Website
+# Kiismet – zweisprachige Website
 
 ## Dateien
 - `index.html` – Startseite, Deutsch als Standardsprache, Umschalter DE / EN
